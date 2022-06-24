@@ -1,1 +1,11 @@
 # TUGAS-BESAR-MKPL-SE4303-PROJECT-MAVEN
+
+ANGGOTA KELOMPOK 
+
+1302194037 - FAHMI ABDILLAH AL AMIEN (Continuous integration)
+
+1302194031 - AZRYAL ACHMAD RAMDANI (Continuous testing)
+
+1302194018 - AHMAD FAKIH (Continuous inspection)
+
+1302190046 - NOVAL FAUZAN (Continuous deployment/delivery)
