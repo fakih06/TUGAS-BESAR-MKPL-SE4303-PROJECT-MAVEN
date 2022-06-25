@@ -16,7 +16,7 @@ public class App
     }
 
     private final String getMessage() {
-        return message;
+        return 0;
     }
     /**
     * Hello world!
